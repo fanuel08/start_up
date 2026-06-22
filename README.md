@@ -31,7 +31,7 @@ A clean, minimal setup for Python development with:
 3. **Run the starter script**:
    ```bash
    python hello.py
-   ```
+   ``` 
 
 You should see output confirming the setup is working.
 
